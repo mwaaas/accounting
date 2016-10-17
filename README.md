@@ -9,18 +9,20 @@
 		docker pull chamaconektkenya/accounting
 		
 
-Built with the following opensource projects
+
 
 
 # Powered by
 
-## Loopback
+Built with the following opensource projects
+
+## 1.Loopback
 
 ![Loopback](/src/logo/loopback_logo.png) 
 
 LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
-## NGINX
+## 2.NGINX
 
 ![NGiNX](/src/logo/nginx_logo.png)
 
@@ -30,7 +32,7 @@ NGINX is one of a handful of servers written to address the C10K problem. Unlike
 
 NGINX powers several high-visibility sites, such as Netflix, Hulu, Pinterest, CloudFlare, Airbnb, WordPress.com, GitHub, SoundCloud, Zynga, Eventbrite, Zappos, Media Temple, Heroku, RightScale, Engine Yard, MaxCDN and many others.
 
-## Docker
+## 3.Docker
 
 ![Docker](/src/logo/docker_logo.png)
 
@@ -38,28 +40,28 @@ Docker is an open source project to pack, ship and run any application as a ligh
 
 Docker containers are both hardware-agnostic and platform-agnostic. This means they can run anywhere, from your laptop to the largest cloud compute instance and everything in between - and they don't require you to use a particular language, framework or packaging system. That makes them great building blocks for deploying and scaling web apps, databases, and backend services without depending on a particular stack or provider.
 
-## Postgres
+## 4.Postgres
 
 ![Postgres](/src/logo/postgres_logo.gif) 
 
 PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness. It runs on all major operating systems, including Linux, UNIX (AIX, BSD, HP-UX, SGI IRIX, Mac OS X, Solaris, Tru64), and Windows. It is fully ACID compliant, has full support for foreign keys, joins, views, triggers, and stored procedures (in multiple languages). It includes most SQL:2008 data types, including INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP. It also supports storage of binary large objects, including pictures, sounds, or video. It has native programming interfaces for C/C++, Java, .Net, Perl, Python, Ruby, Tcl, ODBC, among others.
 
-## Redis
+## 5.Redis
 
 ![Redis](/src/logo/Redis_logo.png)
 
 Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
 
-## MongoDB
+## 6.MongoDB
 
 ![MongoDB](/src/logo/mongodb_logo.jpg)
 
 MongoDB (from humongous) is a free and open-source cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB avoids the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (It calls the format BSON), making the integration of data in certain types of applications easier and faster. MongoDB is developed by MongoDB Inc. and is free and open-source, published under a combination of the GNU Affero General Public License and the Apache License.
 
-## ReactJS
+## 7.ReactJS
 ![React JS](/src/logo/reactjs_logo.png) 
 
-## NodeJS
+## 8.NodeJS
 ![Node JS](/src/logo/nodejs_logo.png) 
 
  
