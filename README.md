@@ -11,21 +11,21 @@
 
 Built with the following opensource projects
 
-![Docker](/src/logo/docker_logo.png)
+![Docker](/src/logo/docker_logo.png) =350x128
 
-![React JS](/src/logo/react_logo.png)
+![React JS](/src/logo/react_logo.png) =350x128
 
-![Node JS](/src/logo/nodejs_logo.png)
+![Node JS](/src/logo/nodejs_logo.png) =350x128
 
-![NGiNX](/src/logo/nginx_logo.png)
+![NGiNX](/src/logo/nginx_logo.png) =350x128
 
-![Loopback](/src/logo/loopback_logo.png)
+![Loopback](/src/logo/loopback_logo.png) =350x128
 
-![Redis](/src/logo/Redis_logo.png)
+![Redis](/src/logo/Redis_logo.png) =350x128
 
-![MongoDB](/src/logo/mongodb_logo.jpg)
+![MongoDB](/src/logo/mongodb_logo.jpg) =350x128
 
-![Postgres](/src/logo/postgres_logo.gif)
+![Postgres](/src/logo/postgres_logo.gif) =350x128
 
 
 ![Chamarika Service Flow](/client/chamarika.png)
