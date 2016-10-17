@@ -33,7 +33,7 @@ Built with the following opensource projects
 ![MongoDB](/src/logo/mongodb_logo.jpg)
 
 ## ReactJS
-![React JS](/src/logo/react_logo.png) 
+![React JS](/src/logo/reactjs_logo.png) 
 
 ## NodeJS
 ![Node JS](/src/logo/nodejs_logo.png) 
