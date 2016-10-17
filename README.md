@@ -11,7 +11,7 @@
 
 Built with the following opensource projects
 
-![Docker](/src/logo/docker_logo.png) 
+![Docker](/src/logo/docker_logo.png)  ![Postgres](/src/logo/postgres_logo.gif)
 
 ![React JS](/src/logo/react_logo.png) 
 
@@ -25,7 +25,7 @@ Built with the following opensource projects
 
 ![MongoDB](/src/logo/mongodb_logo.jpg) 
 
-![Postgres](/src/logo/postgres_logo.gif) 
+ 
 
 
 ![Chamarika Service Flow](/client/chamarika.png)
