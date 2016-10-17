@@ -11,15 +11,17 @@
 
 Built with the following opensource projects
 
-![Docker](/src/logo/docker_logo.png)  ![Postgres](/src/logo/postgres_logo.gif)
+![Docker](/src/logo/docker_logo.png) ![Loopback](/src/logo/loopback_logo.png) 
+
+![Postgres](/src/logo/postgres_logo.gif) ![NGiNX](/src/logo/nginx_logo.png)
 
 ![React JS](/src/logo/react_logo.png) 
 
 ![Node JS](/src/logo/nodejs_logo.png) 
 
-![NGiNX](/src/logo/nginx_logo.png) 
+ 
 
-![Loopback](/src/logo/loopback_logo.png) 
+
 
 ![Redis](/src/logo/Redis_logo.png) 
 
