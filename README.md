@@ -11,16 +11,28 @@
 
 Built with the following opensource projects
 
-![Docker](/src/logo/docker_logo.png)
 
+# Powered by
+
+## Loopback
 ![Loopback](/src/logo/loopback_logo.png) ![NGiNX](/src/logo/nginx_logo.png)
 
-![Postgres](/src/logo/postgres_logo.gif) ![Redis](/src/logo/Redis_logo.png)
+## Docker
+![Docker](/src/logo/docker_logo.png)
 
+## Postgres
+![Postgres](/src/logo/postgres_logo.gif) 
+
+## Redis
+![Redis](/src/logo/Redis_logo.png)
+
+## MongoDB
 ![MongoDB](/src/logo/mongodb_logo.jpg)
 
+## ReactJS
 ![React JS](/src/logo/react_logo.png) 
 
+## NodeJS
 ![Node JS](/src/logo/nodejs_logo.png) 
 
  
