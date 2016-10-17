@@ -15,7 +15,10 @@ Built with the following opensource projects
 # Powered by
 
 ## Loopback
-![Loopback](/src/logo/loopback_logo.png) ![NGiNX](/src/logo/nginx_logo.png)
+![Loopback](/src/logo/loopback_logo.png) 
+
+## NGINX
+![NGiNX](/src/logo/nginx_logo.png)
 
 ## Docker
 ![Docker](/src/logo/docker_logo.png)
