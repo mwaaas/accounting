@@ -5,7 +5,5 @@
 
 [Docker Image Build status](https://hub.docker.com/r/chamaconektkenya/accounting/)
 
-```
-docker pull chamaconektkenya/accounting
-
-```
+		```docker pull chamaconektkenya/accounting
+		```
